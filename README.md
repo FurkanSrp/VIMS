@@ -1,7 +1,11 @@
-Diese Anwendung ist ein Desktop-Programm, das entwickelt wurde, um Informationen von Versicherten einfach zu verwalten. Mit diesem Programm können Benutzer Versicherungsdaten schnell und unkompliziert hinzufügen, bearbeiten, löschen und anzeigen.
+This application is a desktop program designed to easily manage information from insured individuals. With this program, users can quickly and conveniently add, edit, delete, and view insurance data.
 
-Neue Einträge hinzufügen: Benutzer können ein einfaches Formular ausfüllen, um Daten wie Name, Nachname, Geburtsdatum und Versicherungsnummer in das System einzutragen.
-Einträge bearbeiten: Bereits eingegebene Daten können bei Bedarf aktualisiert oder geändert werden.
-Einträge löschen: Informationen, die nicht mehr benötigt werden, können problemlos entfernt werden.
-Daten anzeigen: Alle Einträge können übersichtlich angezeigt werden, sodass Sie schnell auf die benötigten Informationen zugreifen können.
-Die Anwendung bietet eine benutzerfreundliche Oberfläche und sorgt dafür, dass Ihre Daten sicher gespeichert werden. Sie ist besonders geeignet für kleine Unternehmen oder Privatpersonen, die regelmäßig mit Versicherungsdaten arbeiten.
+Add new entries: Users can fill out a simple form to enter data such as first name, last name, date of birth, and insurance number into the system.
+
+Edit entries: Existing data can be updated or modified if necessary.
+
+Delete entries: Information that is no longer needed can be easily removed.
+
+View data: All entries can be clearly displayed, allowing quick access to the required information.
+
+The application offers a user-friendly interface and ensures that your data is securely stored. It is particularly suitable for small businesses or private individuals who regularly work with insurance data.
